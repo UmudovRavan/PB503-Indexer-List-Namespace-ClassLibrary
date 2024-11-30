@@ -1,0 +1,11 @@
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\bin\Debug\net6.0\Helper.deps.json
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\bin\Debug\net6.0\Helper.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\bin\Debug\net6.0\Helper.pdb
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\refint\Helper.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\Helper.pdb
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Helper\obj\Debug\net6.0\ref\Helper.dll

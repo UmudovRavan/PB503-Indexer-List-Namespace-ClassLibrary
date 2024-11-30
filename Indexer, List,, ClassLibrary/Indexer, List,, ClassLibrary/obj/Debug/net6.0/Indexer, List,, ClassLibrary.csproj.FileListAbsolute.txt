@@ -1,0 +1,18 @@
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Indexer, List,, ClassLibrary.exe
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Indexer, List,, ClassLibrary.deps.json
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Indexer, List,, ClassLibrary.runtimeconfig.json
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Indexer, List,, ClassLibrary.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Indexer, List,, ClassLibrary.pdb
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Helper.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\bin\Debug\net6.0\Helper.pdb
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer,.18F770D1.Up2Date
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\refint\Indexer, List,, ClassLibrary.dll
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.pdb
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\Indexer, List,, ClassLibrary.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\Indexer, List,, ClassLibrary\Indexer, List,, ClassLibrary\obj\Debug\net6.0\ref\Indexer, List,, ClassLibrary.dll
